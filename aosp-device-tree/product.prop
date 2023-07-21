@@ -1,0 +1,12 @@
+Build.BRAND=MTK
+persist.device_config.runtime_native.usap_pool_enabled=false
+persist.sys.minfree_6g=73728,92160,110592,340000,1282868,1677312
+persist.sys.minfree_8g=73728,92160,110592,340000,1677312,2064384
+persist.sys.minfree_def=73728,92160,110592,340000,510000,645120
+persist.sys.usb.config=none
+ro.config.alarm_alert=Fireflies.ogg
+ro.config.notification_sound=WaterDrop_preview.ogg
+ro.config.ringtone=MiRemix.ogg
+ro.miui.build.region=cn
+ro.miui.has_gmscore=1
+ro.product.product.marketname=Redmi K30 Ultra

@@ -1,0 +1,13 @@
+system/system/app/OtaProvision/OtaProvision.apk
+system/system/data-app/MiuiHealth/MiuiHealth.apk
+system/system/data-app/SmartHome/SmartHome.apk
+system/system/priv-app/MIUIGallery/MIUIGallery.apk
+system/system/priv-app/MIUIMusic/MIUIMusic.apk
+system/system/priv-app/MIUIVideo/MIUIVideo.apk
+system/system/priv-app/MiBrowser/MiBrowser.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system/system/system_ext/apex/com.android.vndk.v30.apex
+system/system/system_ext/priv-app/Settings/Settings.apk
+vendor/camera/mimoji/model2.zip
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/priv-app/GmsCore/GmsCore.apk
